@@ -1,0 +1,10 @@
+﻿OrderManagement.Core/bin/Debug
+OrderManagement.Data/bin
+.vs
+OrdersManagement/bin
+OrdersManagement/obj/Debug
+OrdersManagement/obj
+OrderManagement.Service/obj
+OrderManagement.Service/bin
+OrderManagement.Data/obj
+OrderManagement.Core/obj
